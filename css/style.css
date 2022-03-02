@@ -39,6 +39,10 @@ body{
     font-size: 52px;
     padding-top: 30px;
 }
+.date{
+    color: gold;
+    text-align: center;
+}
 .tempmaxmin{
     text-align: center;
     color: gold;
